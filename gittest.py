@@ -1,1 +1,3 @@
 print("command")
+
+print("mama")
