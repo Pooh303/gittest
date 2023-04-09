@@ -1,3 +1,0 @@
-print("command")
-
-print("mama")
