@@ -5,7 +5,7 @@
 ------------------------
 /git init ---> จากในโฟลเดอร์ใดก็ได้
 
-/git add remote origin repo_url
+/git remote add origin repo_url
 
 /git fetch origin
 
